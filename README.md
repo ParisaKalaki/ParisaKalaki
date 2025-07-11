@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about using technology to solve rea
 - 🤝 I’d love to help with **projects related to data science, analytics, or web-based applications**.
 - 💬 Ask me about **data analysis**, **Python (Pandas, NumPy)**, or anything related to turning messy data into meaningful insights.
 - 📫 How to reach me: ParisaKalaki@gmail.com
-- ⚡ Fun fact: I love discovering the hidden stories behind messy data 📊✨
+
 
 Thanks for visiting! 🚀
 
