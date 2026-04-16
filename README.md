@@ -1,13 +1,14 @@
 # Hi there 👋 I'm Parisa
 
-Welcome to my GitHub profile! I'm passionate about using technology to solve real-world problems and bring ideas to life.
+Welcome to my GitHub profile! I'm a Data Science student with a strong interest in **Data Engineering** and **Data Science**, and I enjoy building end-to-end data solutions.
 
-- 🔭 I’m currently working on a **data analysis project** focused on data cleaning, preprocessing, and modeling.
-- 🌱 I’m currently learning **advanced data analysis techniques**, strengthening my skills in **Python** and **SQL**, and improving my **data visualization** skills using tools like **Power BI**.
-- 👯 I’m looking to collaborate on **data-driven projects**, especially those involving **data visualization**, **dashboards**, or **machine learning**.
-- 🤝 I’d love to help with **projects related to data science, analytics, or web-based applications**.
-- 💬 Ask me about **data analysis**, **Python (Pandas, NumPy)**, or anything related to turning messy data into meaningful insights.
-- 📫 How to reach me: ParisaKalaki@gmail.com
+- 🔭 I’m currently working on projects that involve **data ingestion, cleaning, transformation, and building machine learning models**.  
+- 🌱 I’m learning more about **data pipelines, cloud technologies, and data engineering workflows**, while strengthening my skills in **Python** and **SQL**.  
+- 🧠 I have experience with **data preprocessing, exploratory data analysis (EDA), model building, and evaluation** using machine learning techniques.  
+- ⚙️ I’m also interested in **designing data pipelines**, working with **data modeling**, and understanding how to **orchestrate workflows**.  
+- 📊 I enjoy turning data into insights through **visualization and dashboards** (e.g., Power BI).  
+- 👯 I’m open to collaborating on **data-driven projects**, especially those involving **data engineering, machine learning, or analytics**.  
+
 
 
 Thanks for visiting! 🚀
